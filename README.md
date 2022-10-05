@@ -1,4 +1,4 @@
-[![Header](./logo1github.jpg)]
+[![Header](./logolourdesgithub2.jpg)]
 
 Hi I'm Lourdes!
 
