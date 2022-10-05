@@ -1,16 +1,19 @@
-´156156156156
+[!Header] 
 
-<!--
-**lourdesmolinaaraoz/lourdesmolinaaraoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi I'm Lourdes!
 
-Here are some ideas to get you started:
+I am an optimist with a lot of desire to continue learning programming and graphic design, within my routine is to 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏋️‍♀️exercise
+- 🚶🏽‍♀️running
+- 📚reading 
+- 🎵listening to music
+- ✈️🌏I love to travel
+
+at the moment I am working on my personal growth as well as in a project of a bakery store.
+
+
+
+
+
+
